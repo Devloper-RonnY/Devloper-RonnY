@@ -6,7 +6,7 @@
 
 </p>
 
-<h1 align="center">Hi 👋, I'm Sanskar Gubreley</h1>
+<h1 align="center">Hi 👋, I'm Roshan Pawar</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskargubreley&label=Profile%20views&color=0e75b6&style=flat" alt="sanskargubreley" /> </p>
 
@@ -17,36 +17,28 @@
 <p align="left"> <a href="https://twitter.com/gubreleysanskar" target="blank"><img src="https://img.shields.io/twitter/follow/gubreleysanskar?logo=twitter&style=for-the-badge" alt="gubreleysanskar" /></a> </p>
 
 
-- 🔭 I’m currently working on *Competitive Pogramming*
+- 🔭 I’m currently working on *Front-end devlopement*
 
 
 - 🌱 I’m currently learning * Web development*
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/SanskarGubreley?tab=repositories](https://github.com/SanskarGubreley?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/)
 
 
-- 💬 Ask me about *Python, JAVA , DSA & Projects*
+- 💬 Ask me about *HTML, CSS , JAVASCRIPT, REACT.JS & Projects*
 
 
-- 📫 How to reach me *gubreley789@gmail.com*
+- 📫 How to reach me *roshanpawar48640@gmail.com*
 
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
 
-<a href="https://twitter.com/gubreleysanskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gubreleysanskar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/roshan-pawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanskar-gubreley" height="30" width="40" /></a>
 
-<a href="https://linkedin.com/in/sanskar-gubreley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanskar-gubreley" height="30" width="40" /></a>
-
-<a href="https://instagram.com/sanskar_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanskar_._" height="30" width="40" /></a>
-
-<a href="https://www.codechef.com/users/sanskar_789" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1477930785537605633/ROTVNVz7_400x400.jpg" alt="sanskar_789" height="30" width="40" /></a>
-
-<a href="https://www.hackerrank.com/sanskar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanskar1" height="30" width="40" /></a>
-
-<a href="https://www.leetcode.com/sanskar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanskar_" height="30" width="40" /></a>
+<a href="https://instagram.com/ronnny18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanskar_._" height="30" width="40" /></a>
 
 </p>
 
