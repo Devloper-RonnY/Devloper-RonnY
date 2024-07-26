@@ -1,9 +1,5 @@
 <p align="center">
 
-  Visitor count<br>
-
-  <img src="https://profile-counter.glitch.me/SanskarGubreley/count.svg" />
-
 </p>
 
 <h1 align="center">Hi 👋, I'm Roshan Pawar</h1>
