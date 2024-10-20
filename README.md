@@ -10,7 +10,7 @@
 
 
 
-<p align="left"> <a href="https://instagram.com/ronnny18" target="blank"><img src="https://[img.shields.io/twitter/follow/gubreleysanskar](https://github.com/Devloper-RonnY/Devloper-RonnY)?logo=twitter&style=for-the-badge" alt="roshanpawar" /></a> </p>
+<p align="left"> <a href="https://instagram.com/ronnny18" target="blank"><img src="](https://github.com/Devloper-RonnY/Devloper-RonnY)?logo=twitter&style=for-the-badge" alt="roshanpawar" /></a> </p>
 
 
 - 🔭 I’m currently working on *Front-end devlopement*
